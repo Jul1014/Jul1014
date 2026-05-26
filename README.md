@@ -3,7 +3,7 @@
 <img align="left" width="180" src="./luffy.gif">
 <img align="right" width="180" src="./giphy.gif">
 
-<h3 align="center">About me 🎮</h3>
+<h3 align="center">About me</h3>
 
 <p align="center">
 
@@ -55,10 +55,10 @@
 <br>
 
 
-<img align="left" width="180" src="./luffy.gif">
-<img align="right" width="180" src="./giphy.gif">
+<img align="left" width="180" src="./200w.gif">
+<img align="right" width="180" src="./hollow-knight-grimm.gif">
 
-<h3 align="center">My favorite games 🎮</h3>
+<h3 align="center">Favorite Games</h3>
 
 <p align="center">
 
