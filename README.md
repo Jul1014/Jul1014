@@ -11,14 +11,15 @@
 <p align="center">📍 Colombia  </p>
 <p align="center">🌐 English / Spanish / Italian </p>
 <p align="center">🎓 Systems & Computer Engineering Student  </p>
-<p align="center">💻 Unity 2D/3D Developer  </p>
-<p align="center">💕 Passionate about all things gamedev — gameplay systems, design, visuals, optimization, and player experience.</p>
 
 
 </p>
 
-<br>
 
+
+<p align="center">💻 Unity 2D/3D Developer  </p>
+<p align="center">💕 Passionate about all things gamedev — gameplay systems, design, visuals, optimization, and player experience.</p>
+<br>
 
 <h3 align="center">Languages ✨</h3>
 
