@@ -17,7 +17,7 @@
 
 
 
-<p align="center">💻 Unity 2D/3D Developer  </p>
+<p align="left">💻 Unity 2D/3D Developer  </p>
 <p align="center">💕 Passionate about all things gamedev — gameplay systems, design, visuals, optimization, and player experience.</p>
 <br>
 
